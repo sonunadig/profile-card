@@ -1,0 +1,82 @@
+.attribution { 
+    font-size: 11px; 
+    text-align: center; 
+}
+
+.attribution a { 
+    color: hsl(228, 45%, 44%); 
+}
+
+body {
+    background-color: hsl(185, 75%, 39%);
+    font-family: 'Kumbh Sans', sans-serif;
+}
+
+.image-1 {
+    background-image: url("images/bg.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+}
+
+.main {
+    background-color: white;
+    margin: 15% auto;
+    width: 20rem;
+    text-align: center;
+    border-radius: 15px;
+}
+
+.main-1 {
+    margin-top: -50px;
+    margin-bottom: 20px;
+}
+
+h5 {
+    font-weight: 600;
+    font-size: 18px;
+}
+
+.colored {
+    color: hsl(0, 0%, 59%);
+    font-weight: 300;
+}
+
+.namecard {
+    padding: 20px 0px 8px 0px;
+}
+
+h4 {
+    font-size: 1.1rem;
+    font-weight: 600;
+    margin-bottom: 5px;
+}
+
+.row {
+    margin-left: 18px;
+    margin-right: 18px;
+    padding: 10px 0;
+}
+
+p {
+    color: hsl(0, 0%, 59%);
+    font-size: 14px;
+}
+
+.desc {
+    font-size: 11px;
+    letter-spacing: 2px;
+}
+
+.setimg {
+    width: 100%;
+    border-radius: 15px 15px 0 0;
+}
+
+.profilepic {
+    border-radius: 100%;
+    border: 6px;
+    border-style: solid;
+    border-color: white;
+}
